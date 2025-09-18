@@ -10,6 +10,6 @@ l=[]
 for i in range(size):
     num=input()
     l.append(num)
-print("the second largest element is:",secondLargest(l))
+print("the second largest element is:",secondLargest)
 
 

@@ -35,3 +35,5 @@ print(df["Dept"].value_counts())
 #to create a new column based of an old one
 df["Promoted Salary"]=df["Salary"]+20000
 print(df)
+
+

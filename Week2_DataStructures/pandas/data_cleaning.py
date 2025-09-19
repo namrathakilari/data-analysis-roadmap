@@ -25,6 +25,10 @@ df_dup=df[df.duplicated()]
 
 df=df.drop_duplicates()
 
-
+#method and lambda
 df["Promoted Salary"]=df["Promoted Salary"].apply(lambda x:x/10 if x>65000 else x)
-print(df)
+# name= "alice_fernandez"
+# df[[first_name","last_name"]]=df["Name"].str.split("_")
+
+
+

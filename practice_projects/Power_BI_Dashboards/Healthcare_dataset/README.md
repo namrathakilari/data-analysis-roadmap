@@ -90,3 +90,8 @@ Visuals extracted from a proprietary healthcare waitlist management system/dashb
 <img width="1335" height="752" alt="dashboard2" src="https://github.com/user-attachments/assets/051ba72e-414c-44a9-84b8-228ade1b66d5" />
 
 ---
+## 📬 Contact
+
+For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or email.
+
+---
